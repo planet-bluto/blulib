@@ -1,4 +1,4 @@
-# BluLib (BLUtoLIBrary)
+# BluLib (BlutoLibrary)
 An HTML JavaScript website/webapp library used by me
 (This isn't really meant to be a publically availible thing; This is basically just a lite version of [ReactJS](https://reactjs.org/))
 
